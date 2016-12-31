@@ -1,4 +1,4 @@
-Filename	--	Content
+Filename	--	Description
 
 initLable.R	--	Generate initial labeling
 irlbaMod.R	--	modified version of the irlba function where A is a list instead of a matrix
